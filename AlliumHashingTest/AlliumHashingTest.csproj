@@ -9,7 +9,7 @@
 
   <ItemGroup>
     <Reference Include="AlliumHashing">
-      <HintPath>..\AlliumHashing\x64\Debug\AlliumHashing.dll</HintPath>
+      <HintPath>..\..\x64\Debug\AlliumHashing.dll</HintPath>
     </Reference>
   </ItemGroup>
 
