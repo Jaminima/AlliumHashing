@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlliumHashingTest", "AlliumHashingTest\AlliumHashingTest.csproj", "{EE317B20-FD08-47B0-8FF3-6ABBEAFA47EC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AlliumHashing", "AlliumHashing\AlliumHashing.vcxproj", "{052BACF7-A431-487A-9674-BDB9FE87B99F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE317B20-FD08-47B0-8FF3-6ABBEAFA47EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE317B20-FD08-47B0-8FF3-6ABBEAFA47EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE317B20-FD08-47B0-8FF3-6ABBEAFA47EC}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{EE317B20-FD08-47B0-8FF3-6ABBEAFA47EC}.Debug|x64.Build.0 = Debug|Any CPU
+		{EE317B20-FD08-47B0-8FF3-6ABBEAFA47EC}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{EE317B20-FD08-47B0-8FF3-6ABBEAFA47EC}.Debug|x86.Build.0 = Debug|Any CPU
+		{EE317B20-FD08-47B0-8FF3-6ABBEAFA47EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE317B20-FD08-47B0-8FF3-6ABBEAFA47EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE317B20-FD08-47B0-8FF3-6ABBEAFA47EC}.Release|x64.ActiveCfg = Release|Any CPU
+		{EE317B20-FD08-47B0-8FF3-6ABBEAFA47EC}.Release|x64.Build.0 = Release|Any CPU
+		{EE317B20-FD08-47B0-8FF3-6ABBEAFA47EC}.Release|x86.ActiveCfg = Release|Any CPU
+		{EE317B20-FD08-47B0-8FF3-6ABBEAFA47EC}.Release|x86.Build.0 = Release|Any CPU
+		{052BACF7-A431-487A-9674-BDB9FE87B99F}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{052BACF7-A431-487A-9674-BDB9FE87B99F}.Debug|Any CPU.Build.0 = Debug|x64
+		{052BACF7-A431-487A-9674-BDB9FE87B99F}.Debug|x64.ActiveCfg = Debug|x64
+		{052BACF7-A431-487A-9674-BDB9FE87B99F}.Debug|x64.Build.0 = Debug|x64
+		{052BACF7-A431-487A-9674-BDB9FE87B99F}.Debug|x86.ActiveCfg = Debug|Win32
+		{052BACF7-A431-487A-9674-BDB9FE87B99F}.Debug|x86.Build.0 = Debug|Win32
+		{052BACF7-A431-487A-9674-BDB9FE87B99F}.Release|Any CPU.ActiveCfg = Release|x64
+		{052BACF7-A431-487A-9674-BDB9FE87B99F}.Release|Any CPU.Build.0 = Release|x64
+		{052BACF7-A431-487A-9674-BDB9FE87B99F}.Release|x64.ActiveCfg = Release|x64
+		{052BACF7-A431-487A-9674-BDB9FE87B99F}.Release|x64.Build.0 = Release|x64
+		{052BACF7-A431-487A-9674-BDB9FE87B99F}.Release|x86.ActiveCfg = Release|Win32
+		{052BACF7-A431-487A-9674-BDB9FE87B99F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69767181-53F6-4396-8294-F94F89659C22}
+	EndGlobalSection
+EndGlobal

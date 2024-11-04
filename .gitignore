@@ -1,0 +1,5 @@
+garlicoin-cache/*
+*/bin/*
+*/obj/*
+*.vs
+x64/
